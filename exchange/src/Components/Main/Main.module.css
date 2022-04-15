@@ -1,0 +1,12 @@
+.container {
+  padding: 10px 0;
+  background: #15dd90;
+  border-bottom: 1px solid #363c4e;
+  transition: all 0.3s ease-in-out;
+  z-index: 999;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  box-sizing: border-box;
+}
